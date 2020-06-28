@@ -3,15 +3,14 @@ html {
 }
 
 body {
-    background-color:#f9e6e6 ;
+    background-color:#fae4cc ;
     color:#333;
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular',  Verdana, sans-serif;
     line-height: 1.5;
 }
 
 #title {
     text-align: center;
-    background-color:rgb(202, 201, 201) ;
     padding: 30px 30px 30px 30px;
     margin: 0;
 }
@@ -39,7 +38,6 @@ img {
 }
 
 #tribute-info {
-    background-color: rgb(202, 201, 201);
     margin: 0;
     padding: 10px 10px 50px 10px;
 }
